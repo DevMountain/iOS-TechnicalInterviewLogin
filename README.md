@@ -1,5 +1,7 @@
 # technicalInterviewLogin
 
+Time Limit - 1 hour
+
 Create an application that initially displays a form with controls to enter a username and password and submit the form. When the form is submitted ensure:
 The username is at least 8 characters in length and alphabetic
 The password is at least 8 characters in length
